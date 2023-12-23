@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "793314480218",
+    "firebase_url": "https://my-virtual-wallet-5f4d7-default-rtdb.firebaseio.com",
+    "project_id": "my-virtual-wallet-5f4d7",
+    "storage_bucket": "my-virtual-wallet-5f4d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793314480218:android:b3a13801424492a78c8863",
+        "android_client_info": {
+          "package_name": "com.example.virtual_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793314480218-9t1o0c9hoj5m6otdabngjnvdbdi3mg9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIcCCJ7OZ_YM2o2Supdc_VNN_ezzVl1MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793314480218-9t1o0c9hoj5m6otdabngjnvdbdi3mg9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793314480218:android:054cbd7342e6587e8c8863",
+        "android_client_info": {
+          "package_name": "com.example.virtual_wallet_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793314480218-fpg49psq81ejvd2br92s04hd46dv2o35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtual_wallet_2",
+            "certificate_hash": "b99151bc3c2002e086d8c646f252b0e6ed17ff06"
+          }
+        },
+        {
+          "client_id": "793314480218-9t1o0c9hoj5m6otdabngjnvdbdi3mg9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIcCCJ7OZ_YM2o2Supdc_VNN_ezzVl1MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793314480218-9t1o0c9hoj5m6otdabngjnvdbdi3mg9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
